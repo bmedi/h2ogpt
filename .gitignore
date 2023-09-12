@@ -38,3 +38,6 @@ Dockerfile_deps
 
 # virtual envs
 venv
+.vscode/settings.json
+client/.DS_Store
+spaces/.DS_Store
