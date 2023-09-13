@@ -41,3 +41,8 @@ venv
 .vscode/settings.json
 client/.DS_Store
 spaces/.DS_Store
+src/.DS_Store
+users/.DS_Store
+auth.json
+.DS_Store
+.DS_Store
